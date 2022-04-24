@@ -1,6 +1,6 @@
 {
   "name": "dotenv-to-json-nodejs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Convert .env to JSON using Nodejs",
   "main": "index.js",
   "scripts": {
