@@ -1,0 +1,24 @@
+{
+  "name": "dotenv-to-json-nodejs",
+  "version": "0.0.1",
+  "description": "Convert .env to JSON using Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dotenv-to-json": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anismerchant/dotenv-to-json-nodejs.git"
+  },
+  "keywords": [
+    "dotenv",
+    "convert dotenv to json",
+    "nodejs"
+  ],
+  "author": "Anis Merchant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anismerchant/dotenv-to-json-nodejs.git/issues"
+  },
+  "homepage": "https://github.com/anismerchant/dotenv-to-json-nodejs.git#readme"
+}
